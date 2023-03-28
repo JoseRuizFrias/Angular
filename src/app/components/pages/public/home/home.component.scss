@@ -1,0 +1,17 @@
+.content {
+  min-height: calc(100vh - 82px - 132px - 40px);
+  background: white;
+}
+
+.heading {
+  width: max-content;
+  color: #0ee44e;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 200;
+  border-bottom: 1px solid #424242;
+}
+.init-page {
+  font-weight: bold;
+  padding: 300px;
+}
